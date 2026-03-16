@@ -1,0 +1,18 @@
+# MIT License
+# Copyright (c) 2026 Lukas Wesemann
+# Original source: https://github.com/LukasWesemann/backtrader_copilot
+
+QWEN:
+  api_key: "your api key"
+  model: "qwen3.5-plus"
+  api_base: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+
+resources_dir: "resources"
+prompt_lib: "prompt_library_default.csv"
+
+strategy_descr_temp: 0.2
+feedback_temp: 0.3
+code_gen_temp: 0.1
+data_gen_temp: 0.1
+analyser_gen_temp: 0.1
+vis_strat_temp: 0.2

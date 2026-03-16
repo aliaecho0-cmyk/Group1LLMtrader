@@ -1,0 +1,10 @@
+streamlit==1.55.0
+backtrader==1.9.78.123
+pandas==2.3.3
+numpy==1.26.4
+pyyaml==6.0.3
+langchain==0.0.340
+pydantic==1.10.13
+openai==0.28.0
+typing-extensions==4.12.2
+lorem==0.1.1
